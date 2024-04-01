@@ -20,3 +20,5 @@ she neva know
 
 ---
 [![](https://visitcount.itsvg.in/api?id=howlongisforever&icon=0&color=0)](https://visitcount.itsvg.in)
+
+后来的我们 什么都有了, 却没有了我们。
