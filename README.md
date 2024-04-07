@@ -1,5 +1,5 @@
 # 💫About Me :
-https://img.shields.io/badge/3E4405F.svg?logo=she neva know &logoColor=white
+khangdzs1tg
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yikhang09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yikhang09) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@30khg9) 
