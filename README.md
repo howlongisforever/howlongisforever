@@ -6,11 +6,6 @@ she neva know
 
 # 💻Tech Stack
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=howlongisforever&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=howlongisforever&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=howlongisforever&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ### ✍️ Dev Quote
